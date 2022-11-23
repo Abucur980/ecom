@@ -1,4 +1,4 @@
-import './category-meny.style.scss';
+import './category-menu.style.scss';
 import CategoryItem from '../category-item/category-item.component';
 import headphones from '../../images/Headphones.png';
 import macbook from '../../images/MacBook.png';
