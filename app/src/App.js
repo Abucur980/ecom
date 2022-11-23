@@ -1,11 +1,11 @@
-import './App.css';
+import './categories.style.scss';
+import * as React from 'react';
+import CategoryMenu from './components/category-menu/category-menu.component';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      Hello
-    </div>
-  );
+    <CategoryMenu/>
+  )
 }
 
 export default App;
