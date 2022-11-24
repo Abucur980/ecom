@@ -11,7 +11,7 @@ import processor from '../../images/Processor.png';
 const categories = [
     {
       id: 1,
-      title: 'Headphones',
+      title: 'dasudasidas',
       img: headphones
     },
     {
